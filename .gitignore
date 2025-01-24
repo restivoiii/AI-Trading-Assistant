@@ -1,0 +1,11 @@
+# Ignore Python virtual environments
+Lib/
+Scripts/
+etc/
+share/
+pyvenv.cfg
+
+# Ignore Streamlit and system files
+.streamlit/
+__pycache__/
+*.log
